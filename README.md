@@ -61,12 +61,11 @@ Blinkit-Dashboard
 
 ## 📷 Dashboard Preview
 
-(Add your dashboard screenshot here)
 
-```
+
 <img width="1920" height="1080" alt="Screenshot (207)" src="https://github.com/user-attachments/assets/7f6bf603-b31e-473d-b28f-7220b75024d4" />
 
----
+
 
 ## 📈 Key Business Insights
 
